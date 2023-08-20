@@ -1,0 +1,11 @@
+img {
+    border-radius: 5%;
+}
+.testimonial-img {
+    height: 130px;
+    border-radius: 50%;
+}
+
+.navbar {
+    background-color: dark;
+}
